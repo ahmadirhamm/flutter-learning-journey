@@ -2,14 +2,25 @@
 
 Tempat dokumentasi, catatan, dan kode latihan saya dalam mempelajari pemrograman Dart dan Framework Flutter dari dasar hingga tingkat lanjut.
 
+## 🛠️ Tech Stack & Tools
+
+Untuk mendukung proses pembelajaran ini, perangkat lunak dan lingkungan pengembangan (*development environment*) yang saya gunakan meliputi:
+
+* **Language:** Dart 3.x
+* **Framework:** Flutter (Next Stage)
+* **IDE / Code Editor:** Visual Studio Code (VS Code)
+  * *Extensions:* Dart & Flutter official tools by Dart Code.
+* **Terminal Emulator:** Command Prompt (CMD) & Integrated VS Code Terminal.
+* **Version Control:** Git & GitHub.
+  
 ## 📌 Kurikulum Belajar & Progress
 
 ### 🟦 Tahap 1: Pemrograman Dart (Dasar)
-- [ ] Modul 01: Variabel, Tipe Data, & Operator (`Done`)
-- [ ] Modul 02: Percabangan & Perulangan Logika (`Done`)
-- [ ] Modul 03: Collections (List, Set, Map) (`Done`)
-- [ ] Modul 04: Fungsi & Arrow Syntax (`Done`)
-- [ ] Modul 05: Object-Oriented Programming (OOP) Dasar (`Done`)
+- [x] Modul 01: Variabel, Tipe Data, & Operator (`✅ Done`)
+- [x] Modul 02: Percabangan & Perulangan Logika (`✅ Done`)
+- [x] Modul 03: Collections (List, Set, Map) (`✅ Done`)
+- [x] Modul 04: Fungsi & Arrow Syntax (`✅ Done`)
+- [x] Modul 05: Object-Oriented Programming (OOP) Dasar (`✅ Done`)
 
 ### 🟩 Tahap 2: Komponen Dasar Flutter (UI Layout)
 - [ ] Modul 06: Pengenalan Stateless vs Stateful Widget (`⏳ Next`)
